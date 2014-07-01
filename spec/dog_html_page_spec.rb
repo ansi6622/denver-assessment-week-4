@@ -1,5 +1,3 @@
-require "spec_helper"
-
 describe DogHTMLPage do
   describe "#title" do
     it "returns how many dogs in an h1 when there are 4 dogs" do
